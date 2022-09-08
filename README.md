@@ -23,4 +23,19 @@
 
   [Link to AboutMe](AboutMe.md)
 
+***
+
+# Places to visit
+
+Below table shoes the famous places to visit in a city and amount of time to spend for visiting
+
+|Name of the city | Location | Amount of time spent |
+|---| --- | --- |
+|Vizag | RK Beach | 1 day |
+|Hyderabad | charminar | 2 days |
+|pudicherry | Rock beach | 3 days |
+
+
+
+
   
