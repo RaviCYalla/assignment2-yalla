@@ -45,6 +45,27 @@ Below table shoes the famous places to visit in a city and amount of time to spe
 >practice makes a man perfect
 >> *John Adams*
 
+***
+
+# Code Fencing
+
+> Strip HTML from Text JavaScript
+>> https://stackoverflow.com/questions/822452/strip-html-from-text-javascript
+
+```
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+```
+[Strip javascript](https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/)
+
+
 
 
 
