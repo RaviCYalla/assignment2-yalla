@@ -35,6 +35,16 @@ Below table shoes the famous places to visit in a city and amount of time to spe
 |Hyderabad | charminar | 2 days |
 |pudicherry | Rock beach | 3 days |
 
+***
+
+# Quotes
+
+>Nothing is impossible 
+>>*Paudrey Hepburn*
+
+>practice makes a man perfect
+>> *John Adams*
+
 
 
 
